@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning ...　私が今取り組んでいること
-### Micro:bit ...　It's fun. 楽しいです
+### Arduino and Micro:bit ...　It's fun. 楽しいです
 <!--
 **Hiroyuki-Moriya/Hiroyuki-Moriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
